@@ -32,12 +32,7 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
   
   * [] Learn Vanilla JS concepts, Git  and HTML CSS really well.
         
-        <!-- * Vanilla JS
-               * [] Finish FreecodeCamp challanges and other Tutorials
-               * [] HTML Toturial
-               * [] CSS Toturial
-               * [] Build Sample Project using above 3
-               * [] Learn Git (Intermediate level) -->
+    
 
 * Create an online portfolio
   * [x] Document your learning journey.
