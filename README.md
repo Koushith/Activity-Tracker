@@ -42,9 +42,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     * [x] HTML
     * [ ] CSS
     * [ ] Sample Projects
+    * [ ] Git (Intermediate level)
    
 
 
 
 * Create an online portfolio
-  * [x] Document your learning journey.
+  * [ ] Document your learning journey.
