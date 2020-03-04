@@ -31,6 +31,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * Learn Design and Vue Js fundamentals in the next 3 months.
   * [x] Learn Vanilla JS concepts, Git  and HTML CSS really well.
 
+* Vanilla JS-
+
+  * JavaScript
+
+    * [x] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
+    * [x] [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+
 * Vanilla JS- 
   * [x] Finish FreeCodeCamp Challanges
 
