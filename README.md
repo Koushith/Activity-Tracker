@@ -29,7 +29,6 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 # March 2020
 
 * Learn Design and Vue Js fundamentals in the next 3 months.
-  
   * [] Learn Vanilla JS concepts, Git  and HTML CSS really well.
         
     
