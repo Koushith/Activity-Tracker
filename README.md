@@ -4,7 +4,7 @@
 * [Best Packages I found for many projects](https://github.com/Koushith/Activity-Tracker.git)
 * Articles
 * Tutorials
-* Books
+* UI/UX Designs & Case Studies
 * YouTube videos
 * Blog
 * Freelance
@@ -26,3 +26,10 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * Start applying for jobs in the 5th month, by this time you should be ready.
 * Failure is the stepping stone for success, fail fast, learn and iterate.
 
+# March 2020
+
+* Learn Design and Vue Js fundamentals in the next 3 months.
+   [x][] Learn Vanilla JS concepts, Git  and HTML CSS really well.
+
+* Create an online portfolio
+   [x][]  Document your learning journey.
