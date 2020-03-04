@@ -35,11 +35,16 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
   * JavaScript
 
-    * [x] [8 Beautiful Ruby on Rails Apps in 30 Days & TDD](https://www.udemy.com/8-beautiful-ruby-on-rails-apps-in-30-days/learn/v4/overview)
-    * [x] [Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)
+    * [x] Finish FreeCodeCamp challenges
 
-* Vanilla JS- 
-  * [x] Finish FreeCodeCamp Challanges
+* Web Basics
+
+    * [] HTML
+    * [] CSS
+    * [] Sample Projects
+   
+
+
 
 * Create an online portfolio
   * [x] Document your learning journey.
