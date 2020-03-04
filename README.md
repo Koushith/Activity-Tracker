@@ -39,9 +39,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * Web Basics
 
-    * [] HTML
-    * [] CSS
-    * [] Sample Projects
+    * [x] HTML
+    * [ ] CSS
+    * [ ] Sample Projects
    
 
 
