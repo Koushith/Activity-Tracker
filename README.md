@@ -30,8 +30,9 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 * Learn Design and Vue Js fundamentals in the next 3 months.
   * [x] Learn Vanilla JS concepts, Git  and HTML CSS really well.
+
 * [] Vanilla JS- 
-      * [] Finish FreeCodeCamp Challanges
+  * [] Finish FreeCodeCamp Challanges
     
         
     
