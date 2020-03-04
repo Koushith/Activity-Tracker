@@ -29,13 +29,13 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 # March 2020
 
 * Learn Design and Vue Js fundamentals in the next 3 months.
-  * [x] Learn Vanilla JS concepts, Git  and HTML CSS really well.
+  * [ ] Learn Vanilla JS concepts, Git  and HTML CSS really well.
 
 * Vanilla JS-
 
   * JavaScript
 
-    * [x] Finish FreeCodeCamp challenges
+    * [ ] Finish FreeCodeCamp challenges
 
 * Web Basics
 
@@ -44,8 +44,5 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
     * [ ] Sample Projects
     * [ ] Git (Intermediate level)
    
-
-
-
 * Create an online portfolio
   * [ ] Document your learning journey.
