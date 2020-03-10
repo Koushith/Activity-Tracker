@@ -91,7 +91,13 @@ body {
 .my-form label {
   display: block;
 }
-.my-form input[type="text"] {
+.my-form input[type="text"],
+.my-form input[type="email"],
+.my-form textarea {
+  padding: 8px;
+  width: 100%;
+}
+.my-form textarea {
   padding: 8px;
   width: 100%;
 }
