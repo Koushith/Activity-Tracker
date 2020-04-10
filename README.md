@@ -40,12 +40,33 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 * Web Basics
 
     * [x] HTML
-    * [ ] CSS
-    * [ ] Sample Projects
+    * [x] CSS
+    * [x] Sample Projects
     * [ ] Git (Intermediate level)
-   
+
+
+
+
+
+# April 2020
+
 * Create an online portfolio
-  * [ ] Document your learning journey.
+  * [ ] Document your learning journey.-ongoing
+  * [ ] Portfolio website- ongoing
+
+* [ ] Practice Fundamentals
+* [ ] Finish Pet Case Study -ongoing
+* [ ] Finish JS30 -ongoing
+
+# 13th to 19th 
+  * [ ] Try to finish the Portfolio website
+  * [ ] Push one Dribbble/Instagram shot every week
+  ######  From wednesday Start reading books 
+   * [ ] Wed, Thr - Read about Design.
+   * [ ] Sat, Sun -Progarmming.
+
+
+
 
 
 ## Create an online portfolio-- Document your learning journey.
