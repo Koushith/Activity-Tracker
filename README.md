@@ -1,17 +1,17 @@
 # Everything about programming and UI/UX:
 
-* Courses
-* [Best Packages I found for many projects](https://github.com/Koushith/Activity-Tracker.git)
-* Articles
-* Tutorials
-* UI/UX Designs & Case Studies
-* YouTube videos
-* Blog
-* Freelance
-* Business
-* Podcast
-* CodePen & Demo
-* Vim
+- Courses
+- [Best Packages I found for many projects](https://github.com/Koushith/Activity-Tracker.git)
+- Articles
+- Tutorials
+- UI/UX Designs & Case Studies
+- YouTube videos
+- Blog
+- Freelance
+- Business
+- Podcast
+- CodePen & Demo
+- Vim
 
 This is a place for me to keep tracked of what I did or what I want to do and some awesome tips from all the online resources have found. All this resources is about web development and some about computer science. My goal is to be a awesome Full-Stack Web Developer.
 
@@ -19,58 +19,57 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ## Goals for Next 6 Months starting from March 2nd to Sep 2020:
 
-* Learn Design and Vue Js fundamentals in the next 3 months.
-* Create an online portfolio-- Document your learning journey.
-* Design the layouts for your app in 3 months while learning   fundamentals.
-* After learning fundamentals and creating the layout start building the app in the next 3 months
-* Start applying for jobs in the 5th month, by this time you should be ready.
-* Failure is the stepping stone for success, fail fast, learn and iterate.
+- Learn Design and Vue Js fundamentals in the next 3 months.
+- Create an online portfolio-- Document your learning journey.
+- Design the layouts for your app in 3 months while learning fundamentals.
+- After learning fundamentals and creating the layout start building the app in the next 3 months
+- Start applying for jobs in the 5th month, by this time you should be ready.
+- Failure is the stepping stone for success, fail fast, learn and iterate.
 
 # March 2020
 
 ## Learn Design and Vue Js fundamentals in the next 3 months.
-  * [ ] Learn Vanilla JS concepts, Git  and HTML CSS really well.
 
-* Vanilla JS-
+- [x] Learn Vanilla JS concepts, Git and HTML CSS really well.
 
-  * JavaScript
+- Vanilla JS-
 
-    * [ ] Finish FreeCodeCamp challenges
+  - JavaScript
 
-* Web Basics
+    - [x] Finish FreeCodeCamp challenges
 
-    * [x] HTML
-    * [x] CSS
-    * [x] Sample Projects
-    * [ ] Git (Intermediate level)
+- Web Basics
 
+  - [x] HTML
+  - [x] CSS
+  - [x] Sample Projects
+  - [ ] Git (Intermediate level)
 
+# April-May 2020
 
+- Create an online portfolio
 
+  - [x] Document your learning journey.-ongoing
+  - [x] Portfolio website- ongoing
 
-# April 2020
-
-* Create an online portfolio
-  * [ ] Document your learning journey.-ongoing
-  * [ ] Portfolio website- ongoing
-
-* [ ] Practice Fundamentals
-* [ ] Finish Pet Case Study -ongoing
-* [ ] Finish JS30 -ongoing
-
-# 13th to 19th 
-  * [ ] Try to finish the Portfolio website
-  * [ ] Push one Dribbble/Instagram shot every week
-  ######  From wednesday Start reading books 
-   * [ ] Wed, Thr - Read about Design.
-   * [ ] Sat, Sun -Progarmming.
-
-
-
-
+- [x] Practice Fundamentals
+- [ ] Finish Pet Case Study -ongoing
+- [ ] Finish JS30 -ongoing
 
 ## Create an online portfolio-- Document your learning journey.
+
 ## Design the layouts for your app in 3 months while learning fundamentals.
+
 ## After learning fundamentals and creating the layout start building the app in the next 3 months
+
 ## Stary applying for jobs in the 5th month, by this time you should be ready.
+
 ## Failure is the stepping stone for success, fail fast, learn and iterate.
+
+# June 2020
+
+## Finally got a job as FrontEnd Engineer -yaay!!
+
+### Todo list for june.
+
+     All these day you were using Bootstrap, Material UI to design the layouts. shut up and learn CSS from start.
