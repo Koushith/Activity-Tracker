@@ -68,8 +68,22 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 # June 2020
 
-## Finally got a job as FrontEnd Engineer -yaay!!
+## Finally got a job as Front-end Engineer -yaay!!
 
 ### Todo list for june.
 
      All these day you were using Bootstrap, Material UI to design the layouts. shut up and learn CSS from start🤯🤯.
+
+# Going back to basic's is good. learn Fundamentals.
+
+## Time-management is the Key.
+
+Focus on CSS/ Avoid using css libraries.
+
+# Monday to Wednesday
+
+- [ ] Core CSS and React. if possible Design
+
+# Wednesday to Sunday
+
+- [ ] Venilla JS and React. Design- optional
