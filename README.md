@@ -72,4 +72,4 @@ If you have some resources to shared please do. I'm eager to find new stuff and 
 
 ### Todo list for june.
 
-     All these day you were using Bootstrap, Material UI to design the layouts. shut up and learn CSS from start.
+     All these day you were using Bootstrap, Material UI to design the layouts. shut up and learn CSS from start🤯🤯.
