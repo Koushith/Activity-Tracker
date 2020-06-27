@@ -89,6 +89,12 @@ Focus on CSS/ Avoid using css libraries.
 - [ ] vanilla JS and React. Design- optional
 
 
-## July Plans- 2020
+# July Plans- 2020
 
 ## Remember- you don't have exam- read and understand the concepts fot your career growth. don't mugup anything. usnderstand.
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        | $12 |
+| zebra stripes | are neat        | $1 |
