@@ -86,4 +86,9 @@ Focus on CSS/ Avoid using css libraries.
 
 # Wednesday to Sunday
 
-- [ ] Venilla JS and React. Design- optional
+- [ ] vanilla JS and React. Design- optional
+
+
+## July Plans- 2020
+
+## Remember- you don't have exam- read and understand the concepts fot your career growth. don't mugup anything. usnderstand.
