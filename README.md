@@ -17,7 +17,7 @@ This is a place for me to keep tracked of what I did or what I want to do and so
 
 If you have some resources to shared please do. I'm eager to find new stuff and learn.
 
-## Goals for Next 6 Months starting from March 2nd to Sep 2020:
+## Goals for Next 6 Months starting from March 2nd to Sep 2020:p
 
 - Learn Design and Vue Js fundamentals in the next 3 months.
 - Create an online portfolio-- Document your learning journey.
